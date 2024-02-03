@@ -41,3 +41,11 @@ Note: The code provided has a small error in the `Bank` class constructor, where
 Overall, the Java code simulates a simple ATM interface, allowing clients to deposit, withdraw, check their balance, transfer money, and view transaction history for their bank account.
 ** Output Demo **
 https://www.linkedin.com/feed/update/urn:li:activity:7089549973318504448/
+
+## Contributing
+
+Contributions are welcome! Feel free to open issues or pull requests.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
